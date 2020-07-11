@@ -1,1 +1,1 @@
-# max-euclid
+# lp_spheres
